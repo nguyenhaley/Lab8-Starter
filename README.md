@@ -2,6 +2,7 @@
 
 Published page: https://nguyenhaley.github.io/Lab8-Starter/
 
+pwa.png:
 ![screenshot](pwa.png)
 
 ### Explore Question
